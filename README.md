@@ -20,4 +20,6 @@ CREATION D'UN NOUVEL ADMINISTRATEUR :
 5) LOGOUT tout en haut à gauche de la page.
 6) Vous pouvez maintenant utiliser vos propres identifiants.
 
+email: polo@polo.com et password 1234 pour tester le mode user.
+
 LE SITE EST VISIBLE EN LIGNE : [mysuper.great-site](http://mysuper.great-site.net/)
